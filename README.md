@@ -1,1 +1,1 @@
-Math symbols (<img src="https://render.githubusercontent.com/render/math?math=\color{cyan}x">, <img src="https://render.githubusercontent.com/render/math?math=\color{magenta}y">) probably won't be needed for this GitHub Pages site.
+Math symbols (<img src="https://render.githubusercontent.com/render/math?math=\color{cyan}x">, <img src="https://render.githubusercontent.com/render/math?math=\color{magenta}y">, <img src="https://render.githubusercontent.com/render/math?math=\color{green}z">) probably won't be needed for this GitHub Pages site.
